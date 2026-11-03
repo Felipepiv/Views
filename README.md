@@ -45,3 +45,9 @@ Ao armazenar essa lógica em uma View, a equipe de banco de dados disponibiliza 
 Outro benefício é a padronização das consultas. Quando diferentes setores utilizam a mesma View, todos trabalham com os mesmos critérios e regras, diminuindo as chances de ocorrerem divergências nos resultados. Caso seja necessário modificar alguma regra, a equipe responsável pode atualizar a definição da View, sem precisar alterar individualmente todas as consultas utilizadas em relatórios e aplicações.
 
 Portanto, a View funciona como uma camada intermediária entre as tabelas do banco de dados e os usuários, ocultando os detalhes mais complexos da estrutura interna e disponibilizando as informações de maneira mais simples, organizada e adequada às necessidades de cada atividade.
+
+## Referências
+
+DEV MEDIA. **MySQL – Trabalhando com Views**. DevMedia, [s. l.], [s. d.]. Disponível em: <https://www.devmedia.com.br/mysql-trabalhando-com-views/8724>. Acesso em: 3 nov. 2026.
+
+COMO CRIAR VISUALIZAÇÕES NO SQL – CRIAÇÃO DE VIEWS. [S. l.: s. n.], [s. d.]. 1 vídeo (YouTube). Disponível em: <https://youtu.be/HAWBo3ZROBk>. Acesso em: 3 nov. 2026.
